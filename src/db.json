@@ -1,0 +1,224 @@
+{
+  "houses": [
+    {
+      "id": 1,
+      "name": "Matthaeus",
+      "ownerName": "Matthaeus Negro",
+      "address": "681 Rusk Road",
+      "areaCode": 1,
+      "rent": 12049,
+      "prefferedTenants": "bachelor",
+      "image": "https://media.istockphoto.com/photos/beautiful-residential-home-exterior-on-bright-sunny-day-with-green-picture-id1211174464?k=20&m=1211174464&s=612x612&w=0&h=fQ3ahmaJnYcZb0UQtBXvOhcuhHFTgK9BA5Mylic7Gnw="
+    },
+    {
+      "id": 2,
+      "name": "Brittni",
+      "ownerName": "Brittni Ecclestone",
+      "address": "4 Lyons Center",
+      "areaCode": 2,
+      "rent": 17339,
+      "prefferedTenants": "bachelor",
+      "image": "https://media.istockphoto.com/photos/beautiful-residential-home-exterior-on-bright-sunny-day-with-green-picture-id1211174464?k=20&m=1211174464&s=612x612&w=0&h=fQ3ahmaJnYcZb0UQtBXvOhcuhHFTgK9BA5Mylic7Gnw="
+    },
+    {
+      "id": 3,
+      "name": "Cazzie",
+      "ownerName": "Cazzie Coe",
+      "address": "067 La Follette Park",
+      "areaCode": 3,
+      "rent": 11782,
+      "prefferedTenants": "bachelor",
+      "image": "https://media.istockphoto.com/photos/beautiful-residential-home-exterior-on-bright-sunny-day-with-green-picture-id1211174464?k=20&m=1211174464&s=612x612&w=0&h=fQ3ahmaJnYcZb0UQtBXvOhcuhHFTgK9BA5Mylic7Gnw="
+    },
+    {
+      "id": 4,
+      "name": "Elke",
+      "ownerName": "Elke Trott",
+      "address": "82 Hayes Place",
+      "areaCode": 4,
+      "rent": 10669,
+      "prefferedTenants": "bachelor",
+      "image": "https://media.istockphoto.com/photos/beautiful-residential-home-exterior-on-bright-sunny-day-with-green-picture-id1211174464?k=20&m=1211174464&s=612x612&w=0&h=fQ3ahmaJnYcZb0UQtBXvOhcuhHFTgK9BA5Mylic7Gnw="
+    },
+    {
+      "id": 5,
+      "name": "Arline",
+      "ownerName": "Arline Haggar",
+      "address": "66 Warner Point",
+      "areaCode": 5,
+      "rent": 17138,
+      "prefferedTenants": "bachelor",
+      "image": "https://media.istockphoto.com/photos/beautiful-residential-home-exterior-on-bright-sunny-day-with-green-picture-id1211174464?k=20&m=1211174464&s=612x612&w=0&h=fQ3ahmaJnYcZb0UQtBXvOhcuhHFTgK9BA5Mylic7Gnw="
+    },
+    {
+      "id": 6,
+      "name": "Coraline",
+      "ownerName": "Coraline Thody",
+      "address": "1 Kedzie Trail",
+      "areaCode": 6,
+      "rent": 17153,
+      "prefferedTenants": "bachelor",
+      "image": "https://media.istockphoto.com/photos/beautiful-residential-home-exterior-on-bright-sunny-day-with-green-picture-id1211174464?k=20&m=1211174464&s=612x612&w=0&h=fQ3ahmaJnYcZb0UQtBXvOhcuhHFTgK9BA5Mylic7Gnw="
+    },
+    {
+      "id": 7,
+      "name": "Herc",
+      "ownerName": "Herc Swadden",
+      "address": "46323 Schurz Alley",
+      "areaCode": 7,
+      "rent": 16762,
+      "prefferedTenants": "bachelor",
+      "image": "https://media.istockphoto.com/photos/beautiful-residential-home-exterior-on-bright-sunny-day-with-green-picture-id1211174464?k=20&m=1211174464&s=612x612&w=0&h=fQ3ahmaJnYcZb0UQtBXvOhcuhHFTgK9BA5Mylic7Gnw="
+    },
+    {
+      "id": 8,
+      "name": "Laureen",
+      "ownerName": "Laureen Sempill",
+      "address": "9977 Carberry Place",
+      "areaCode": 8,
+      "rent": 10734,
+      "prefferedTenants": "bachelor",
+      "image": "https://media.istockphoto.com/photos/beautiful-residential-home-exterior-on-bright-sunny-day-with-green-picture-id1211174464?k=20&m=1211174464&s=612x612&w=0&h=fQ3ahmaJnYcZb0UQtBXvOhcuhHFTgK9BA5Mylic7Gnw="
+    },
+    {
+      "id": 9,
+      "name": "Rouvin",
+      "ownerName": "Rouvin Ferrieri",
+      "address": "29 Dixon Hill",
+      "areaCode": 9,
+      "rent": 17808,
+      "prefferedTenants": "bachelor",
+      "image": "https://media.istockphoto.com/photos/beautiful-residential-home-exterior-on-bright-sunny-day-with-green-picture-id1211174464?k=20&m=1211174464&s=612x612&w=0&h=fQ3ahmaJnYcZb0UQtBXvOhcuhHFTgK9BA5Mylic7Gnw="
+    },
+    {
+      "id": 10,
+      "name": "Northrop",
+      "ownerName": "Northrop Cuttell",
+      "address": "55522 Donald Hill",
+      "areaCode": 10,
+      "rent": 18926,
+      "prefferedTenants": "bachelor",
+      "image": "https://media.istockphoto.com/photos/beautiful-residential-home-exterior-on-bright-sunny-day-with-green-picture-id1211174464?k=20&m=1211174464&s=612x612&w=0&h=fQ3ahmaJnYcZb0UQtBXvOhcuhHFTgK9BA5Mylic7Gnw="
+    },
+    {
+      "id": 11,
+      "name": "Trish",
+      "ownerName": "Trish Jefford",
+      "address": "28255 Basil Drive",
+      "areaCode": 11,
+      "rent": 12324,
+      "prefferedTenants": "married",
+      "image": "https://media.istockphoto.com/photos/beautiful-residential-home-exterior-on-bright-sunny-day-with-green-picture-id1211174464?k=20&m=1211174464&s=612x612&w=0&h=fQ3ahmaJnYcZb0UQtBXvOhcuhHFTgK9BA5Mylic7Gnw="
+    },
+    {
+      "id": 12,
+      "name": "Rog",
+      "ownerName": "Rog Renyard",
+      "address": "98 Surrey Parkway",
+      "areaCode": 12,
+      "rent": 11399,
+      "prefferedTenants": "married",
+      "image": "https://media.istockphoto.com/photos/beautiful-residential-home-exterior-on-bright-sunny-day-with-green-picture-id1211174464?k=20&m=1211174464&s=612x612&w=0&h=fQ3ahmaJnYcZb0UQtBXvOhcuhHFTgK9BA5Mylic7Gnw="
+    },
+    {
+      "id": 13,
+      "name": "Merell",
+      "ownerName": "Merell Gatchell",
+      "address": "1596 Mandrake Pass",
+      "areaCode": 13,
+      "rent": 10362,
+      "prefferedTenants": "married",
+      "image": "https://media.istockphoto.com/photos/beautiful-residential-home-exterior-on-bright-sunny-day-with-green-picture-id1211174464?k=20&m=1211174464&s=612x612&w=0&h=fQ3ahmaJnYcZb0UQtBXvOhcuhHFTgK9BA5Mylic7Gnw="
+    },
+    {
+      "id": 14,
+      "name": "Jocelyn",
+      "ownerName": "Jocelyn Cashen",
+      "address": "63 Bartelt Court",
+      "areaCode": 14,
+      "rent": 12921,
+      "prefferedTenants": "married",
+      "image": "https://media.istockphoto.com/photos/beautiful-residential-home-exterior-on-bright-sunny-day-with-green-picture-id1211174464?k=20&m=1211174464&s=612x612&w=0&h=fQ3ahmaJnYcZb0UQtBXvOhcuhHFTgK9BA5Mylic7Gnw="
+    },
+    {
+      "id": 15,
+      "name": "Alyda",
+      "ownerName": "Alyda Naismith",
+      "address": "9089 Miller Crossing",
+      "areaCode": 15,
+      "rent": 19727,
+      "prefferedTenants": "married",
+      "image": "https://media.istockphoto.com/photos/beautiful-residential-home-exterior-on-bright-sunny-day-with-green-picture-id1211174464?k=20&m=1211174464&s=612x612&w=0&h=fQ3ahmaJnYcZb0UQtBXvOhcuhHFTgK9BA5Mylic7Gnw="
+    },
+    {
+      "id": 16,
+      "name": "Nonah",
+      "ownerName": "Nonah Heaselgrave",
+      "address": "8074 Chinook Avenue",
+      "areaCode": 16,
+      "rent": 19320,
+      "prefferedTenants": "married",
+      "image": "https://media.istockphoto.com/photos/beautiful-residential-home-exterior-on-bright-sunny-day-with-green-picture-id1211174464?k=20&m=1211174464&s=612x612&w=0&h=fQ3ahmaJnYcZb0UQtBXvOhcuhHFTgK9BA5Mylic7Gnw="
+    },
+    {
+      "id": 17,
+      "name": "Nerissa",
+      "ownerName": "Nerissa Ruilton",
+      "address": "78350 Warner Trail",
+      "areaCode": 17,
+      "rent": 13365,
+      "prefferedTenants": "married",
+      "image": "https://media.istockphoto.com/photos/beautiful-residential-home-exterior-on-bright-sunny-day-with-green-picture-id1211174464?k=20&m=1211174464&s=612x612&w=0&h=fQ3ahmaJnYcZb0UQtBXvOhcuhHFTgK9BA5Mylic7Gnw="
+    },
+    {
+      "id": 18,
+      "name": "Sabine",
+      "ownerName": "Sabine Davidof",
+      "address": "300 Elmside Junction",
+      "areaCode": 18,
+      "rent": 14809,
+      "prefferedTenants": "married",
+      "image": "https://media.istockphoto.com/photos/beautiful-residential-home-exterior-on-bright-sunny-day-with-green-picture-id1211174464?k=20&m=1211174464&s=612x612&w=0&h=fQ3ahmaJnYcZb0UQtBXvOhcuhHFTgK9BA5Mylic7Gnw="
+    },
+    {
+      "id": 19,
+      "name": "Nollie",
+      "ownerName": "Nollie Fife",
+      "address": "8 Prairieview Crossing",
+      "areaCode": 19,
+      "rent": 13319,
+      "prefferedTenants": "married",
+      "image": "https://media.istockphoto.com/photos/beautiful-residential-home-exterior-on-bright-sunny-day-with-green-picture-id1211174464?k=20&m=1211174464&s=612x612&w=0&h=fQ3ahmaJnYcZb0UQtBXvOhcuhHFTgK9BA5Mylic7Gnw="
+    },
+    {
+      "id": 20,
+      "name": "Rebecka",
+      "ownerName": "Rebecka Ottewill",
+      "address": "7 Glacier Hill Lane",
+      "areaCode": 20,
+      "rent": 16425,
+      "prefferedTenants": "married",
+      "image": "https://media.istockphoto.com/photos/beautiful-residential-home-exterior-on-bright-sunny-day-with-green-picture-id1211174464?k=20&m=1211174464&s=612x612&w=0&h=fQ3ahmaJnYcZb0UQtBXvOhcuhHFTgK9BA5Mylic7Gnw="
+    },
+    {
+      "name": "huzaifa",
+      "ownerName": "huzaifa",
+      "address": "delhi",
+      "areaCode": "21",
+      "rent": "10000",
+      "prefferedTenants": "bachelor",
+      "": "aaa",
+      "id": 21
+    },
+    {
+      "name": "tony stark",
+      "ownerName": "tony stark",
+      "address": "dubai",
+      "areaCode": "22",
+      "rent": "10000",
+      "prefferedTenants": "married",
+      "": "aaa",
+      "id": 22
+    }
+  ]
+}
